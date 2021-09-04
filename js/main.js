@@ -15,7 +15,7 @@ $(function(){
 
     $('.reviews__slaider').slick({
         arrows: false,
-        dots: false,
+        dots: true,
         slidesToShow: 4,
         slidesToScroll: 1,
 
